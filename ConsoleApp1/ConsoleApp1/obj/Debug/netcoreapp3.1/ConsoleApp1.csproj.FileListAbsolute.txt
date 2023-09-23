@@ -1,0 +1,13 @@
+\\srv-gis\Work\3831\ИСРПО\Хрустель Дарья\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+\\srv-gis\Work\3831\ИСРПО\Хрустель Дарья\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+\\srv-gis\Work\3831\ИСРПО\Хрустель Дарья\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+\\srv-gis\Work\3831\ИСРПО\Хрустель Дарья\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+\\srv-gis\Work\3831\ИСРПО\Хрустель Дарья\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+\\srv-gis\Work\3831\ИСРПО\Хрустель Дарья\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+\\srv-gis\Work\3831\ИСРПО\Хрустель Дарья\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+\\srv-gis\Work\3831\ИСРПО\Хрустель Дарья\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+\\srv-gis\Work\3831\ИСРПО\Хрустель Дарья\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+\\srv-gis\Work\3831\ИСРПО\Хрустель Дарья\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+\\srv-gis\Work\3831\ИСРПО\Хрустель Дарья\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+\\srv-gis\Work\3831\ИСРПО\Хрустель Дарья\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+\\srv-gis\Work\3831\ИСРПО\Хрустель Дарья\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
